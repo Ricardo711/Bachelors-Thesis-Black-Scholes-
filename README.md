@@ -53,7 +53,8 @@ Currently, I am extending this work using **Reinforcement Learning (RL)** to tra
 
 - `Original_Thesis_Spanish.pdf` — My original thesis written in Spanish
 - `README.md` — This file
-- `*.ipynb / *.py` — *(To be added)* Scripts or notebooks for data analysis, Black-Scholes computation, and RL integration
+- `src`- Source Code 
+- `notes`- English deductions 
 
 ---
 
@@ -69,8 +70,7 @@ Currently, I am extending this work using **Reinforcement Learning (RL)** to tra
 
 **Ricardo Alonso Manjarrez Retes**  
 Graduate Student, Computer Science  
-Email: [your-email@example.com]  
-GitHub: [github.com/your-username](https://github.com/your-username)
+Email: ramr99@nmsu.edu  
 
 ---
 
