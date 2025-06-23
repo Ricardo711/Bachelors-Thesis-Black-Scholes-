@@ -8,14 +8,17 @@ This repository contains the work of my Bachelor's thesis, which explores the us
 
 ## 🧠 Topics Covered
 
-- **Theory of Probability**
-- **Stochastic Processes**
-- **Itô Calculus**
-- **Derivation of the Black-Scholes Formula**
-- **Conversion of the PDE to an ODE**
-- **Solution via the Heat Equation & Fourier Transform**
-- **Real-world application using Yahoo Finance data**
-
+- **Algebraic Structures and Probability Spaces**
+- **Conditional Probability, Expectation, and Convergence**
+- **Stochastic Processes, Martingales, and Brownian Motion**
+- **Itô Integral and Stochastic Differential Equations**
+- **Derivation and Mathematical Justification of the Black-Scholes Formula**
+- **Solution via Heat Equation and Fourier Transform**
+- **Computational Implementation and Market Data Application**
+- **Volatility and Interest Rate Estimation from Real Data**
+- **Computational Implementation and Market Data Application**
+- **Comparison of Theoretical Prices vs. Real Option Prices**
+- **Translation of the Thesis using Reinforcement Learning (in progress)**
 ---
 
 ## 🧮 Methodology
