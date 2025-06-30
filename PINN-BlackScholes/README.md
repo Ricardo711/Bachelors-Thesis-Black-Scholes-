@@ -40,6 +40,7 @@ Where:
 $$
 d_1 = \frac{\ln\left(\frac{S}{K}\right) + \left(r + \frac{\sigma^2}{2}\right)(T - t)}{\sigma \sqrt{T - t}}
 $$
+and 
 $$
 d_2 = d_1 - \sigma \sqrt{T - t}
 $$
