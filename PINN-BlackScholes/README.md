@@ -25,34 +25,33 @@ $$
 
 Where $K$ is the strike price.
 
-## Black-Scholes Closed-Form Solution
+##  Black-Scholes Closed-Form Solution
 
 The Black-Scholes formula provides the theoretical price of European-style options.
 
-### Call Option Price
+###  Call Option Price
 $$
 C(S, t) = S \cdot N(d_1) - K e^{-r(T - t)} \cdot N(d_2)
 $$
 
-
-
-Where:
-$$
+###  Definitions
+\[
 d_1 = \frac{\ln\left(\frac{S}{K}\right) + \left(r + \frac{\sigma^2}{2}\right)(T - t)}{\sigma \sqrt{T - t}}
-$$
-and 
-$$
+\]
+\[
 d_2 = d_1 - \sigma \sqrt{T - t}
-$$
+\]
+
+---
 
 ### 📘 Variables
 
-| Symbol | Meaning |
-|--------|---------|
-| \( S \) | Current stock price |
-| \( K \) | Strike price of the option |
-| \( T \) | Expiration time (in years) |
-| \( t \) | Current time |
-| \( r \) | Risk-free interest rate (annualized) |
+| Symbol     | Meaning                                                   |
+|------------|-----------------------------------------------------------|
+| \( S \)     | Current stock price                                       |
+| \( K \)     | Strike price of the option                                |
+| \( T \)     | Expiration time (in years)                                |
+| \( t \)     | Current time                                              |
+| \( r \)     | Risk-free interest rate (annualized)                      |
 | \( \sigma \) | Volatility of the stock (standard deviation of returns) |
 | \( N(\cdot) \) | Cumulative distribution function of the standard normal distribution |
