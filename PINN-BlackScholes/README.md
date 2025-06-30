@@ -35,16 +35,16 @@ C(S, t) = S \cdot N(d_1) - K e^{-r(T - t)} \cdot N(d_2)
 $$
 
 ###  Definitions
-\[
+$$
 d_1 = \frac{\ln\left(\frac{S}{K}\right) + \left(r + \frac{\sigma^2}{2}\right)(T - t)}{\sigma \sqrt{T - t}}
-\]
-\[
+$$
+$$
 d_2 = d_1 - \sigma \sqrt{T - t}
-\]
+$$
 
 ---
 
-### 📘 Variables
+### Variables
 
 | Symbol     | Meaning                                                   |
 |------------|-----------------------------------------------------------|
