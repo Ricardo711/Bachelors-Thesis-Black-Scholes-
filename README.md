@@ -1,12 +1,12 @@
 # Bachelors Thesis: Stochastic Differential Equations in Finance
 
-## 📘 Project Overview
+##  Project Overview
 
 This repository contains the work of my Bachelor's thesis, which explores the use of **stochastic differential equations (SDEs)** in **financial mathematics**. The central focus of this study is the derivation and application of the **Black-Scholes formula** for option pricing, along with its theoretical foundations and practical implementation.
 
 ---
 
-## 🧠 Topics Covered
+##  Topics Covered
 
 - **Algebraic Structures and Probability Spaces**
 - **Conditional Probability, Expectation, and Convergence**
@@ -18,10 +18,10 @@ This repository contains the work of my Bachelor's thesis, which explores the us
 - **Volatility and Interest Rate Estimation from Real Data**
 - **Computational Implementation and Market Data Application**
 - **Comparison of Theoretical Prices vs. Real Option Prices**
-- **Translation of the Thesis using Reinforcement Learning (in progress)**
+- **Translation of the Thesis using Physics Informed Neural Networks (PINN's) (in progress)**
 ---
 
-## 🧮 Methodology
+##  Methodology
 
 1. **Mathematical Foundation**:  
    Developed a rigorous understanding of stochastic processes and Itô calculus to model asset price dynamics as **Geometric Brownian Motion (GBM)**.
@@ -37,28 +37,27 @@ This repository contains the work of my Bachelor's thesis, which explores the us
 
 ---
 
-## 📊 Real-World Case Study
+##  Real-World Case Study
 
 A case study was conducted using historical stock prices from Yahoo Finance to validate the Black-Scholes model. Results were analyzed to evaluate the model's performance in real-world financial markets.
 
 ---
 
-## 🚧 Ongoing Work
+##  Ongoing Work
 
-Currently, I am extending this work using **Reinforcement Learning (RL)** to translate and enhance the original thesis. The goal is to experiment with **learning-based agents** that optimize option pricing strategies using market data and stochastic models.
-
----
-
-## 📁 Files
-
-- `Original_Thesis_Spanish.pdf` — My original thesis written in Spanish
-- `README.md` — This file
-- `src`- Source Code 
-- `notes`- English deductions 
+Currently, I am extending this work using **PINN** to translate and enhance the original thesis.
 
 ---
 
-## 💡 Future Work
+##  Files
+
+- `Original_Thesis` — My original thesis written in Spanish and the source code (no AI)
+- `PINN-BlackScholes` — Contains the code of using PINN in solving the Black Scholes partial differential equation
+- `solution.pdf`- Contains the english translation of the solution of the PDE 
+
+---
+
+##  Future Work
 
 - Full translation of the thesis into English
 - Implementation of RL agents for option pricing
@@ -66,7 +65,7 @@ Currently, I am extending this work using **Reinforcement Learning (RL)** to tra
 
 ---
 
-## 📬 Contact
+##  Contact
 
 **Ricardo Alonso Manjarrez Retes**  
 Graduate Student, Computer Science  
@@ -74,7 +73,7 @@ Email: ramr99@nmsu.edu
 
 ---
 
-## 📄 License
+##  License
 
 This project is under the MIT License. See `LICENSE` for more details.
 
